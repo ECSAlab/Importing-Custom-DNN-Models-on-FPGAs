@@ -22,7 +22,7 @@ If you use this work in academic research, please, cite it using the following B
 
 ![](https://img.shields.io/github/last-commit/ECSAlab/Importing-Custom-DNN-Models-on-FPGAs?style=plastic)
 
-<img align="left" src="https://raw.githubusercontent.com/ECSAlab/Importing-Custom-DNN-Models-on-FPGAs/paper.png" alt="drawing" style="margin-right: 20px" width="250"/>
+![paper screenshot](./paper.png)
 
 ## Tools used:
 [Tiny-DNN](https://github.com/Stavros/tiny-dnn)
