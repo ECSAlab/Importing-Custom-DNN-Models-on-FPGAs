@@ -29,7 +29,7 @@ If you use this work in academic research, please, cite it using the following B
 * ![Tiny-DNN](https://github.com/Stavros/tiny-dnn)
 * ![CNN VHDL Generator](https://github.com/mhamdan91/cnn_vhdl_generator)
 * ![Vivado 2019.1](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html)
-* ![!ModelSim](https://fpgasoftware.intel.com/?product=modelsim_ae#tabs-2)
+* ![ModelSim](https://fpgasoftware.intel.com/?product=modelsim_ae#tabs-2)
 
 ## Files
 
