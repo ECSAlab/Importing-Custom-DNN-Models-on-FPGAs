@@ -25,19 +25,14 @@ If you use this work in academic research, please, cite it using the following B
 ![paper screenshot](./paper.png)
 
 ## Tools used:
-[Tiny-DNN](https://github.com/Stavros/tiny-dnn)
-
-[CNN VHDL Generator](https://github.com/mhamdan91/cnn_vhdl_generator)
-
-[Vivado 2019.1](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html)
-
-[ModelSim](https://fpgasoftware.intel.com/?product=modelsim_ae#tabs-2)
+![Tiny-DNN](https://github.com/Stavros/tiny-dnn)
+![CNN VHDL Generator](https://github.com/mhamdan91/cnn_vhdl_generator)
+![Vivado 2019.1](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html)
+![!ModelSim](https://fpgasoftware.intel.com/?product=modelsim_ae#tabs-2)
 
 ## Files
+
 LeNet-model.json (LeNet-5 trained model archtecture with MNIST dataset, export from Tiny-DNN)
-
 LeNet-weights.json (LeNet-5 trained model weights, export from Tiny-DNN)
-
 Config_LeNet_custom.txt (custom generated model config, import to VHDL Generator)
-
 Config_LeNet_weights_custom.txt (custom generated weights file, import to VHDL Generator)
