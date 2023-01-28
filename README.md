@@ -1,8 +1,9 @@
 # Importing-Custom-DNN-Models-on-FPGAs
-This repo is a placeholder for the related paper presented at the [10th Meditherannean Conference on Embedded Computing (MECO’2021)](http://embeddedcomputing.meconet.me/meco-2021/) and published in [IEEE Xplore](https://ieeexplore.ieee.org/document/9460248).
+This repo is a placeholder for the paper presented at the [10th Meditherannean Conference on Embedded Computing (MECO’2021)](http://embeddedcomputing.meconet.me/meco-2021/) and published in [IEEE Xplore](https://ieeexplore.ieee.org/document/9460248).
 
 # Citation
 If you use this work in academic research, please, cite it using the following BibTeX:
+> S. Kalapothas, G. Flamis and P. Kitsos, "Importing Custom DNN Models on FPGAs," 2021 10th Mediterranean Conference on Embedded Computing (MECO), 2021, pp. 1-4, doi: 10.1109/MECO52532.2021.9460248.
 ```
 @INPROCEEDINGS{9460248,
   author={Kalapothas, Stavros and Flamis, Georgios and Kitsos, Paris},
